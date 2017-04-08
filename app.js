@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const program = require('commander')
 
 //可下 node app -h 查詢說
