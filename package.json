@@ -1,0 +1,14 @@
+{
+    "name": "test-cli",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/cainmaila/test-cli.git",
+    "author": "Cain Chu <cainmaila@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "commander": "^2.9.0"
+    },
+    "bin": {
+        "cain-cli": "./app.js"
+    }
+}
