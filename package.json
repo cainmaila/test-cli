@@ -1,6 +1,6 @@
 {
     "name": "test-cli2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "repository": "https://github.com/cainmaila/test-cli.git",
     "author": "Cain Chu <cainmaila@gmail.com>",
